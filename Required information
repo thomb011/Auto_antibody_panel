@@ -1,0 +1,13 @@
+Things required:
+CSV or excel spreadsheet of available antibodies and available fluorophores
+read in
+check read in correct
+read in list of desired fluorophores
+check read in correct
+compare
+print out panel
+
+later options:
+choose fluorochrome for specific antibody
+
+check it works on specific machine (can't have BV421 on same as ef450 on fortessas, but I can on Aurora)
